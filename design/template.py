@@ -12,8 +12,8 @@ scenes=[
  dict(tag="휴대뽐 꿀팁", title="매장 안 가고\n휴대폰 바꾸는 법", sub="전국 택배개통, 30초 정리"),
  dict(tag="STEP 1", title="카톡으로\n상담하기", sub="원하는 기종·요금제만\n말씀해 주세요"),
  dict(tag="STEP 2", title="온라인\n신청서 작성", sub="본인인증으로 간단하게"),
- dict(tag="STEP 3", title="개통 후\n택배 발송", sub="집이나 회사에서\n편하게 받기"),
- dict(tag="STEP 4", title="유심 끼우고\n바로 사용", sub="데이터 옮기는 방법도\n안내해 드려요"),
+ dict(tag="STEP 3", title="기기를\n택배로 받기", sub="집이나 회사에서\n편하게 받기"),
+ dict(tag="STEP 4", title="받은 후\n개통 진행", sub="개통되면 바로 사용!\n데이터 이동도 안내해요"),
  dict(tag="상담은 카톡으로", title="카톡에서\n'휴대뽐' 검색", sub="hyudaebbom.netlify.app", cta=True),
 ]
 def ctext(d,y,text,font,fill,gap=20):
