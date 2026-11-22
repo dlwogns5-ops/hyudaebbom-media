@@ -1,0 +1,4 @@
+주제: 폰 잃어버렸을 때 대처 순서 — 분실신고만 하면 요금·휴대폰 결제 계속 발생 → 분실정지 같이(발신만 정지 옵션), 내 기기 찾기(android.com/find: 위치·무음이어도 5분 소리·원격 잠금), 초기화는 마지막(추적 끊김), 저장된 카드·공동인증서 발급처 신고·자동로그인 비번 변경, 핸드폰찾기콜센터(handphone.or.kr), 위치 찾기 기능은 미리 켜둬야
+출처: SKT T world FAQ(휴대폰 분실 시) https://m.tworld.co.kr/customer/faq/do-like-this?id=B00038 / Android 공식(2026-09) https://www.android.com/intl/ko_kr/articles/what-to-do-if-your-phone-is-lost-or-stolen/ / 정책브리핑(IMEI 분실폰 관리) https://www.korea.kr/news/policyNewsView.do?newsId=148792437
+후킹: 잃어버린 폰, '분실신고'만 하면 안 돼요
+예약: 2026-11-22 12:00 KST
