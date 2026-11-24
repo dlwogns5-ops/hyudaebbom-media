@@ -1,4 +1,4 @@
 주제: 중고폰 팔기 전 5단계 — 백업(스마트 스위치·iCloud·카톡 채팅 백업) → 아이폰 '나의 찾기' 끄고 Apple 계정 로그아웃(활성화 잠금) / 갤럭시 구글·삼성 계정 로그아웃(FRP) → 페이 카드 삭제·워치 페어링 해제·인증서 이동 → 설정 메뉴에서 전체 초기화 → 유심·SD카드 제거
 출처: Apple 지원 HT5661 https://support.apple.com/kb/HT5661 / Apple 지원 초기화 https://support.apple.com/ko-kr/HT2110 / 삼성서비스 FRP 안내 https://www.samsungsvc.co.kr/solution/37202
 후킹: 폰 팔 때 초기화만 하면 끝? 순서가 틀렸어요
-예약: 2026-11-24 19:00 KST
+예약: 2026-11-24 10:30 KST (Metricool 베스트 타임 10시대)
