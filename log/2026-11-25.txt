@@ -1,0 +1,5 @@
+주제: 휴대폰 소액결제 차단 — 결제금액이 통신요금에 합산돼 고지서 보고서야 알게 됨, 한도가 두 개(휴대폰결제/콘텐츠 이용료)라 둘 다 막아야 함, 통신사 앱(T world·마이케이티·당신의 U+) 또는 114, 알뜰폰은 가입사 고객센터, '결제 취소·피해 보상' 미끼 문자 주의, 필요 시 본인 인증 후 해제 가능
+출처: 방송통신위원회 보도자료 2025-09-11(소액결제 피해 예방 위해 이용한도 축소·서비스 차단 당부) https://www.kmcc.go.kr/download.do?fileSeq=61893 / 뉴시스 2025-10-02 https://www.newsis.com/view/NISX20251002_0003353700 / 휴대폰결제 vs 콘텐츠 이용료 정리 https://thessadang.com/phone/wiki/%ED%9C%B4%EB%8C%80%ED%8F%B0-%EC%86%8C%EC%95%A1%EA%B2%B0%EC%A0%9C-vs-%EC%BD%98%ED%85%90%EC%B8%A0-%EC%9D%B4%EC%9A%A9%EB%A3%8C-%EC%B4%9D%EC%A0%95%EB%A6%AC-46
+후킹: 안 쓰는 소액결제, 열어두면 피해 볼 수 있어요
+예약: 2026-11-25 12:00 KST
+참고: 이 세션 환경엔 Noto CJK 폰트가 없어 apt로 설치함, 렌더는 design/2026-11-25_scenes.py(OUT 환경변수) + ffmpeg xfade slideleft 0.35s, 장면당 3.4s
